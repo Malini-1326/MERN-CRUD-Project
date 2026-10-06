@@ -158,6 +158,6 @@ This project was developed to demonstrate full-stack web development using the M
 
 ## Author
 
-**Malini**
+**Malini S**
 
 GitHub: https://github.com/Malini-1326
