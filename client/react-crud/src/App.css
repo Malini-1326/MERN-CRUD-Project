@@ -1,0 +1,17 @@
+*{
+    padding:0;
+    margin:0;
+}
+.user-form-bg{
+    background-image: url('./assets/bg-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width:100%;
+}
+.table-rows thead th {
+  background-color: #bcffd6 !important;
+}
+.table-rows tbody td {
+  background-color: #ffffff !important;
+}
